@@ -1,0 +1,18 @@
+    1  ls
+    2  whoami
+    3  pwd
+    4  man man
+    5  echo "hola"
+    6  echo $HOME
+    7  echo $home
+    8  ls
+    9  cd repogit/
+   10  cd ..
+   11  ls
+   12  cat README 
+   13  git clone https://github.com/enzog-r/rodriguez_vagrant.git
+   14  ls
+   15  cd rodriguez_vagrant/
+   16  ls
+   17  history
+   18  history > historial.txt
